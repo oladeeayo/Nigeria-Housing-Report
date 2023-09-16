@@ -28,7 +28,7 @@ Parameters:
 
 ## Data Cleaning
 
-The state Anambra was wrongly written as Anamambra, this was edited and replaced with the right word. A new column to group houses into duplexes and bungalows was also included titled house_type.
+The state Anambra was wrongly written, this was edited and replaced with the right word. A new column to group houses into duplexes and bungalows was also included titled house_type.
 
 
 ## Problem Statement
@@ -41,7 +41,7 @@ The state Anambra was wrongly written as Anamambra, this was edited and replaced
 
 
 ## Data Visualization
-The problem statements were answered here Link [here](https://1drv.ms/x/s!AmaLcLicjjbghUBTp17qbK7V65ei?e=YGiYn4)
+The problem statements were answered here Link [here]((https://github.com/oladeeayo/Nigeria-Housing-Report/blob/main/nigeria_houses_data.xlsx))
 
 ![Picture2](https://github.com/oladeeayo/Nigeria-Housing-Report/assets/13979269/2188c607-b9a5-4375-9c31-99cbb2fca931)
 
